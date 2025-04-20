@@ -1,2 +1,2 @@
-# CodeAlpha_C-_CGPA-calculator
+# CodeAlpha_Cpp_CGPA-calculator
 cgpa calculator 
